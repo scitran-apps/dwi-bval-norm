@@ -1,2 +1,2 @@
-# dwi-bval-norm
+# scitran/dwi-bval-norm
 Normalize DWU B-Values
