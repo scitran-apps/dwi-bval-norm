@@ -1,2 +1,2 @@
 # scitran/dwi-bval-norm
-Normalize DWU B-Values
+Normalize DWI B-Values
